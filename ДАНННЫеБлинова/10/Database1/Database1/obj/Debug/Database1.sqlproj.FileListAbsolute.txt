@@ -1,0 +1,10 @@
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\bin\Debug\Database1.dacpac
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\bin\Debug\Database1.dll
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\bin\Debug\Database1.pdb
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\Database1.dll
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\Database1.pdb
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\Model.xml
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\refactor.xml
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\postdeploy.sql
+C:\MyStudy\3курс1семестр\ДАНННЫеБлинова\10\Database1\Database1\obj\Debug\predeploy.sql
